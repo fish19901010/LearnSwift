@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53B2C51E2CCAEE7593EFE5082E802C99568E3A54",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "53B2C51E2CCAEE7593EFE5082E802C99568E3A54" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D921DA3D-580C-4C7F-B639-B4DE42716F17",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53B2C51E2CCAEE7593EFE5082E802C99568E3A54" : "hybirdC_iOS_Swift\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "hybirdC_iOS_Swift\/HybirdC\/3rdPart\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HybirdC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HybirdC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/115.29.184.42\/gitbucket\/git\/root\/hybirdC_iOS_Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53B2C51E2CCAEE7593EFE5082E802C99568E3A54"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    }
+  ]
+}
